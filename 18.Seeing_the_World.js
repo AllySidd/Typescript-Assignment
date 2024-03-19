@@ -1,4 +1,4 @@
-"use strict";
+
 // Store the locations in a array. Make sure the array is not in alphabetical order.
 let places = ['Australia', 'Ukraine', 'Malaysia', 'United kingdom', 'Italy'];
 // Print your array in its original oder.
