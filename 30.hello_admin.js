@@ -1,4 +1,3 @@
-"use strict";
 let usernames = ["admin", "user1", "user2", "user3", "user4"];
 usernames.forEach(usernames => {
     if (usernames === "admin") {
