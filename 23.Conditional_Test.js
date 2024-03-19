@@ -1,4 +1,3 @@
-"use strict";
 // Write a series of conitional tests.
 // Creating car variable
 let car = 'subaru';
