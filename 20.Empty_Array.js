@@ -1,4 +1,3 @@
-"use strict";
 // Think of something you could store in a array.
 let items = ['Pakistan', 'Karachi', 'Urdu'];
 //Write a program chat creates a list containing these items.
