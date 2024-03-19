@@ -1,4 +1,3 @@
-"use strict";
 // Create a visiarble called alien_color
 let alien_color = 'green';
 //Write an if statement to test whether the alien's color green. If it is print a message that the player just earned 5 points.
