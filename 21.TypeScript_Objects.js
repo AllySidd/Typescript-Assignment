@@ -1,4 +1,3 @@
-"use strict";
 // Write a program that creates Objects containing these items.
 // person object.
 let person = {
