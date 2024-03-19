@@ -1,4 +1,3 @@
-"use strict";
 // Alien Colors #2: Choose a color for an alien as you did in Exercise 25 
 let alienColors = "green";
 // Write an if-else chain.
