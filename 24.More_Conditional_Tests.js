@@ -1,4 +1,3 @@
-"use strict";
 // Equality and Inequality Test 1
 console.log("Equality test with strings: ", "Apple" === "Apple");
 // Equality and Inequality Test 2
