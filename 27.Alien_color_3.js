@@ -1,4 +1,3 @@
-"use strict";
 // Alien color #3: turn your If-else chain from Exercise 5-4 into an if-else chain.
 // Write three versions of this program, making sure each message is printed for the appropriate color alien.
 let alienColor = "green";
