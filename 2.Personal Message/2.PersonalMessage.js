@@ -1,4 +1,3 @@
-"use strict";
 let personName = '';
 personName = prompt('What is your Name?') || '';
 if (personName !== null && personName !== '') {
