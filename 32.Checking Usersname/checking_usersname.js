@@ -1,0 +1,11 @@
+let current_users = ["user1", "admin", "user3", "user4", "user5"];
+let new_users = ["user1", "user6", "user7", "admin", "user9"];
+new_users.forEach(newUser => {
+    if (current_users.some(curreentUser => curreentUser.toLowerCase() ===
+        newUser.toLowerCase())) {
+        console.log(` ${newUser} will need to enter a new uername.`);
+    }
+    else {
+        console.log(` ${newUser} is available.`);
+    }
+});
